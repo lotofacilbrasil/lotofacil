@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<body style="background-color: #9f9f9f">
 
-You can use the [editor on GitHub](https://github.com/lotofacilbrasil/lotofacil/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<div class="container theme-showcase" role="main">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<div style="position: absolute;top: 50%; left: 50%; transform: translate(-50%,-50%)">
 
-### Markdown
+		<center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+			<a href="http://ned.com.br.professorlotofacil.com.br/lotofacil-expert-2/?mcr=AEA4230307">
 
-```markdown
-Syntax highlighted code block
+				<img class="cell" src="image.png">
 
-# Header 1
-## Header 2
-### Header 3
+			</a>
 
-- Bulleted
-- List
+			<br>
 
-1. Numbered
-2. List
+			<p style="color:#fff;font-family:verdana">Este site não tem qualquer ligação com a empresa Facebook Serviços Online do Brasil Ldta. e demais marcas citadas nos artigos,
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ apenas dispõe de conteúdo informativo de utilidade pública em benefício de seus visitantes. </p>
 
-### Jekyll Themes
+		</center>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lotofacilbrasil/lotofacil/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+		</div>
 
-### Support or Contact
+	</div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
